@@ -1,1 +1,1 @@
-mod rustem;
+pub mod ipsum;
